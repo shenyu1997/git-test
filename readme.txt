@@ -1,11 +1,2 @@
-hello git
-
-def helloworld:
-	println 'hello world'
-
-def sayhello:
-	println 'say hello'
-
-
-def saygoodbye:
-	println 'say goodbye'
+This gitHub test project, It does not have any means in real world.
+thanks
